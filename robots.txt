@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://equitorialhabitats-coder.github.io/equitorialhabitats/sitemap.xml
